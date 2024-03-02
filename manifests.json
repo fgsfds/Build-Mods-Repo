@@ -54,6 +54,15 @@
     "Description": "Gothic Library DX aims at merging the final version of the map with the rooms and layout of the beta version, while also filling in the empty rooms in the process. The goal is to stick as close as possible to the original intent and to the style of the two original authors. Thus, giving the map the few extra minutes of gameplay I feel it should have had. More info in the Making Of folder, if you care so much as to read through that."
   },
   {
+    "Guid": "6af1a4bf-a9fa-4605-83cb-21a87b710447",
+    "Name": "Voxel Pack",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/blood_voxels.zip",
+    "Game": "Blood",
+    "ModType": "Autoload",
+    "Version": 0.961,
+    "Description": "This pack provides voxel replacements for sprites in Blood"
+  },
+  {
     "Guid": "a34ef011-0208-4fc1-818f-282d5b7b89fc",
     "Name": "Cultists with correct guns",
     "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/cultists.zip",
