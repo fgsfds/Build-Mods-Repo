@@ -5,7 +5,26 @@
     "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/death_wish_v179.zip",
     "Game": "Blood",
     "ModType": "Campaign",
-    "Version": 1.79
+    "Version": 1.79,
+    "Description": "Caleb will need to muster all his strength to take down the mighty Tchernobog, who has managed to free himself from the grip of death.\r\n\r\nDeath Wish is a campaign for Blood with over 30 new levels, cut scenes, and more. All levels have been adapted so that Co-op play is not only possible, but enhanced with a helpful checkpoint system. The campaign includes several secret levels which all connect back to their episodes through special transitional missions.\r\n\r\nThe entire mod was developed by a single mapper, Bloatoid, who has been editing with the Build engine for many years. The original Death Wish was created between January 2010 and October 2011. Updates have been made over the years based on feedback from players and observing online streamers, as well as the addition of several extra secret levels. A 4th episode is in development.\r\n\r\nLet the festival of Blood continue!"
+  },
+  {
+    "Guid": "90e1a441-6d8a-4078-8235-e95fbf3ab173",
+    "Name": "Fleshed Out",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/fleshed_out_v1714.zip",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Version": 1.714,
+    "Description": "After the death of Tchernobog, the surviving members of the Cabal openend up alternate spirit worlds to grow their army again. They are planning to create a new God and rule the world once and for all. So get the guns ready, Caleb is about make a bloody mess again.."
+  },
+  {
+    "Guid": "80d42313-57e4-4dc7-9e4d-5085598173a4",
+    "Name": "French Meat 2",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/french_meat_2_v23.zip",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Version": 2.3,
+    "Description": "After the French Meat episode for BLOOD, the second with 8 new maps including new tiles and soundtracks for an adventure with a unique atmosphere immersed in the heart of paradise island colonized by the pirates of Cabal! kill them all, make a maximum of death, blow them up, slaughter them wherever they are.\r\n\r\nINCLUDING :\r\n\r\n- French Meat episode 1 updated : 9 maps\r\n\r\n- French Meat episode 2 : 8 maps \u002B new tiles"
   },
   {
     "Guid": "f0328f89-a563-4c31-9a9e-f6ba523658ec",
@@ -13,7 +32,35 @@
     "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/marrow_v12.zip",
     "Game": "Blood",
     "ModType": "Campaign",
-    "Version": 1.2
+    "Version": 1.2,
+    "Description": "Tchernobog lays dead, his form fading away from the world as Caleb turns his back to the smoldering corpse. Vengeance sated, he leaves the Hall of the Epiphany behind. Feeling no less disdain for the world than he did with Ophelia, and experiencing none of the joy she brought, he returns to the grave to die once more. A hopefully final resting place.\r\n\r\nThe Cabal had been scattered far and wide by the gunman\u0027s path of revenge, but in his absence they regathered, regrouped, motivated out of their own sense of vengeance. Caleb was their general, the chosen one of their dark god and he had betrayed them all twice over.\r\n\r\nHe must burn for rejecting the honor of being sacrificed, for striking at Tchernobog. This suffering is best repaid by the tongues of Cerberus. Gathering his remains, the diaspora cinders of his pit, they enacted plans to resurrect him, and sought out Caleb\u0027s newfound grave, and bring him face to face with a fiery end.\r\n\r\n- A complete brand new episode.\r\n\r\n- Control Caleb as he carves a swath of carnage through the Cabal.\r\n\r\n- Experience ten brand new levels!\r\n\r\n- Using only assets from the original game, crafting a dark and horrific journey for Caleb."
+  },
+  {
+    "Guid": "11f483c9-628b-4f37-baf1-805cda594ef8",
+    "Name": "Trauma Therapy",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/trauma_therapy_v25.zip",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Version": 2.5,
+    "Description": "Caleb has won over the Cabal and destroyed the evil god Tchernobog. A short time has passed but Caleb can not find any rest. He is tormented by horrid dreams and visions that are haunting him and he has trouble distinguishing reality from dream. Awaking one day in hospital having no idea how he got there he seesonly one solution to his agony. He has to find the three vessels of Tchernobogs Aura to resurrect him and kill him for the last time in hope of finding peace and rest."
+  },
+  {
+    "Guid": "ea73e557-6f6d-467d-80bc-d70e7418c670",
+    "Name": "Gothic Library DX",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Maps/gothic_library_dx_v11.zip",
+    "Game": "Blood",
+    "ModType": "Map",
+    "Version": 1.1,
+    "Description": "Gothic Library DX aims at merging the final version of the map with the rooms and layout of the beta version, while also filling in the empty rooms in the process. The goal is to stick as close as possible to the original intent and to the style of the two original authors. Thus, giving the map the few extra minutes of gameplay I feel it should have had. More info in the Making Of folder, if you care so much as to read through that."
+  },
+  {
+    "Guid": "a34ef011-0208-4fc1-818f-282d5b7b89fc",
+    "Name": "Cultists with correct guns",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/cultists.zip",
+    "Game": "Blood",
+    "ModType": "Autoload",
+    "Version": 2,
+    "Description": "This mod gives every cultist his correct weapon. So that means you\u0027ll see Ackolyte with actual TNT, Cultist with a shotgun, Fanatic with a tommy gun and finally Zealot with tesla gun.\r\n\r\nAlso included:\r\n\r\n- actual gibbing animation for innocents,\r\n\r\n- differrent sprites for cultist\u0027s electrocution,\r\n\r\n- Stone Gargoygle having actual blue eyes when shooting,\r\n\r\n- Blood Alpha Cultist\u0027s beast transformation animation,"
   },
   {
     "Guid": "e18000ae-59ae-4b7e-80b4-68eecfee429e",
@@ -21,7 +68,8 @@
     "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/smooth_blood.zip",
     "Game": "Blood",
     "ModType": "Autoload",
-    "Version": 1.1
+    "Version": 1.1,
+    "Description": "This is a modification for Blood which allows playing the game with smoother weapon animations. This mod supports all so far modern ways of playing Blood, which are NBlood, Raze, BloodGDX and Fresh Supply. DOS version is not supported."
   },
   {
     "Guid": "ee531ae0-ccc6-48f7-ac04-1cf2faeabbab",
@@ -29,7 +77,8 @@
     "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Campaigns/dukehard_v12.zip",
     "Game": "Duke3D",
     "ModType": "Campaign",
-    "Version": 1
+    "Version": 1.21,
+    "Description": "Inspired by the movie Die Hard, the episode consists of 17 levels by 15 different map designers and progresses from the lobby to the rooftop of a skyscraper. Each level is confined to its own floor of the building, and although each floor features a different theme, various design constraints ensure a certain degree of consistency throughout the episode."
   },
   {
     "Guid": "483997df-07d6-4cff-9379-81d05adc639a",
@@ -37,14 +86,25 @@
     "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Campaigns/liquidator3d_v15.zip",
     "Game": "Duke3D",
     "ModType": "Campaign",
-    "Version": 1.4
+    "Version": 1.5,
+    "Description": "Liquidator is an obscure Russian game illegally made using Build Engine and published in 1998 by Akella Company, who later made an infamous Postal 3.\r\n\r\nThe game includes all-new graphics, sounds, and 3 campaigns with total of 6 maps."
+  },
+  {
+    "Guid": "3d1771e2-9307-4c3b-a22b-a87b487f8f3d",
+    "Name": "Voxel Pack",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Mods/duke3d_voxels.zip",
+    "Game": "Duke3D",
+    "ModType": "Autoload",
+    "Version": 2,
+    "Description": "This pack provides voxel replacements for sprites in Duke Nukem 3D"
   },
   {
     "Guid": "40c00be6-8121-4fea-b35c-031a6b6947f6",
     "Name": "When I Was Young",
-    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//ShadowWarrior/Campaigns/wiwy_v11.zip",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Campaigns/wiwy_v11.zip",
     "Game": "Wang",
     "ModType": "Campaign",
-    "Version": 1.1
+    "Version": 1.1,
+    "Description": "This story takes places some years before the game does; Lo Wang is a bad boy and he is working for local mafia. Two sections of the local chinese mafia battle to gain control of the city. One clan is led by Mr Takagy, the other one by Mr Fu Kung. You are member of Mr Takagy\u0027s clan, and got to do the dirty jobs for him... (you might also have to deal with the police)\r\n\r\n- 11 single player levels \u002B 1 secret level (technically 2 secret levels, but same twice) \u002B 6 in-between levels \u002B 2 \u0027bonus\u0027 levels\r\n\r\n- coop \u0026 wangbang capabilities in all 11 main levels\r\n\r\n- 2 new weapons (unfinished, thus looking really ugly but I kept it for fun)\r\n\r\n- new arts\r\n\r\n- a little new intro animation\r\n\r\n- a story :-)\r\n\r\n- new talk\r\n\r\n- weather effects"
   }
 ]
