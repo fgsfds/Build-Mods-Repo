@@ -1,0 +1,50 @@
+[
+  {
+    "Guid": "04af20a1-5451-482f-9953-1e9ea2f8021c",
+    "Name": "Death Wish",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/death_wish_v179.zip",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Version": 1.79
+  },
+  {
+    "Guid": "f0328f89-a563-4c31-9a9e-f6ba523658ec",
+    "Name": "Marrow",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/marrow_v12.zip",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Version": 1.2
+  },
+  {
+    "Guid": "e18000ae-59ae-4b7e-80b4-68eecfee429e",
+    "Name": "SmoothBlood",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/smooth_blood.zip",
+    "Game": "Blood",
+    "ModType": "Autoload",
+    "Version": 1.1
+  },
+  {
+    "Guid": "ee531ae0-ccc6-48f7-ac04-1cf2faeabbab",
+    "Name": "Duke Hard",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Campaigns/dukehard_v12.zip",
+    "Game": "Duke3D",
+    "ModType": "Campaign",
+    "Version": 1
+  },
+  {
+    "Guid": "483997df-07d6-4cff-9379-81d05adc639a",
+    "Name": "Liquidator 3D",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Campaigns/liquidator3d_v15.zip",
+    "Game": "Duke3D",
+    "ModType": "Campaign",
+    "Version": 1.4
+  },
+  {
+    "Guid": "40c00be6-8121-4fea-b35c-031a6b6947f6",
+    "Name": "When I Was Young",
+    "Url": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//ShadowWarrior/Campaigns/wiwy_v11.zip",
+    "Game": "Wang",
+    "ModType": "Campaign",
+    "Version": 1.1
+  }
+]
