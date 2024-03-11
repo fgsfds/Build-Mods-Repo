@@ -125,11 +125,10 @@
     "ModType": "Autoload",
     "Name": "Voxel Pack",
     "Version": 0.961,
-    "Author": "fgsfds",
     "Url": "https://github.com/fgsfds/Blood-Voxel-Pack/",
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/voxel_pack.zip",
-    "FileSize": 3875249,
-    "Description": "This pack provides voxel replacements for sprites in Blood"
+    "FileSize": 3875223,
+    "Description": "Voxel replacements for sprites in Blood"
   },
   {
     "Guid": "ee531ae0-ccc6-48f7-ac04-1cf2faeabbab",
@@ -172,11 +171,10 @@
     "ModType": "Autoload",
     "Name": "Voxel Pack",
     "Version": 2,
-    "Author": "NightFright2k19",
     "Url": "https://github.com/NightFright2k19/duke3d_voxelpack",
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Mods/voxel_pack.zip",
-    "FileSize": 4656675,
-    "Description": "This pack provides voxel replacements for sprites in Duke Nukem 3D"
+    "FileSize": 4656652,
+    "Description": "Voxel replacements for sprites in Duke Nukem 3D"
   },
   {
     "Guid": "fe04fd9d-221b-4353-9dff-63db59894f42",
@@ -199,6 +197,52 @@
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Mods/wt_uncensor.zip",
     "FileSize": 88830,
     "Description": "This mod brings back red crosses of the medkits in World Tour edition of the game"
+  },
+  {
+    "Guid": "2518ff8f-61dc-4422-b5c4-cf8b50b443a9",
+    "Game": "Fury",
+    "ModType": "Map",
+    "Name": "SPYmaps 1",
+    "Version": 1,
+    "Author": "SPYmaps",
+    "Url": "https://www.moddb.com/mods/spymaps-ion-fury",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Fury/Maps/spymaps1.zip",
+    "FileSize": 221979,
+    "Description": ""
+  },
+  {
+    "Guid": "8411f05f-8ce8-4e26-a5dd-ad9cb7941bbb",
+    "Game": "Fury",
+    "ModType": "Autoload",
+    "Name": "Voxel Pack",
+    "Version": 0.4,
+    "Url": "https://github.com/Dzierzan/IonFury-Voxel-Pack",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Fury/Mods/voxel_pack.zip",
+    "FileSize": 1340403,
+    "Description": "Voxel replacements for sprites in Ion Fury"
+  },
+  {
+    "Guid": "bec18b97-890a-414f-8f36-c3d5bc5c1d7d",
+    "Game": "Slave",
+    "ModType": "Campaign",
+    "Name": "Return to Ruins",
+    "Version": 1,
+    "Author": "Oasiz, MetHy, Daedolon",
+    "Url": "https://www.moddb.com/mods/return-to-ruins",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Campaigns/return_to_ruins_v1.zip",
+    "FileSize": 374686,
+    "Description": "This is a 3 maps episode for the PC DOS version of Exhumed / Powerslave.\r\n\r\nNew maps for a game with no official modding support. 20 years after its release.\r\n\r\nThe maps were built with an episodic format in mind, but unlike in the original game, they were also designed so that each can be played separetely with a fresh start."
+  },
+  {
+    "Guid": "1f18e7c6-6444-44b8-8aee-eebda3f20b37",
+    "Game": "Slave",
+    "ModType": "Autoload",
+    "Name": "Voxel Pack",
+    "Version": 0.16,
+    "Url": "https://github.com/fgsfds/Powerslave-Voxel-Pack",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Mods/voxel_pack.zip",
+    "FileSize": 643820,
+    "Description": "This pack provides voxel replacements for sprites in Powerslave/Exhumed"
   },
   {
     "Guid": "40c00be6-8121-4fea-b35c-031a6b6947f6",
