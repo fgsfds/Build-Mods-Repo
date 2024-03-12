@@ -125,11 +125,10 @@
     "ModType": "Autoload",
     "Name": "Voxel Pack",
     "Version": 0.961,
-    "Author": "fgsfds",
     "Url": "https://github.com/fgsfds/Blood-Voxel-Pack/",
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Mods/voxel_pack.zip",
-    "FileSize": 3875249,
-    "Description": "This pack provides voxel replacements for sprites in Blood"
+    "FileSize": 3875223,
+    "Description": "Voxel replacements for sprites in Blood"
   },
   {
     "Guid": "ee531ae0-ccc6-48f7-ac04-1cf2faeabbab",
@@ -172,11 +171,10 @@
     "ModType": "Autoload",
     "Name": "Voxel Pack",
     "Version": 2,
-    "Author": "NightFright2k19",
     "Url": "https://github.com/NightFright2k19/duke3d_voxelpack",
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Mods/voxel_pack.zip",
-    "FileSize": 4656675,
-    "Description": "This pack provides voxel replacements for sprites in Duke Nukem 3D"
+    "FileSize": 4656652,
+    "Description": "Voxel replacements for sprites in Duke Nukem 3D"
   },
   {
     "Guid": "fe04fd9d-221b-4353-9dff-63db59894f42",
@@ -197,8 +195,96 @@
     "Name": "World Tour Red Crosses",
     "Version": 1,
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Mods/wt_uncensor.zip",
-    "FileSize": 88830,
+    "FileSize": 88851,
     "Description": "This mod brings back red crosses of the medkits in World Tour edition of the game"
+  },
+  {
+    "Guid": "2518ff8f-61dc-4422-b5c4-cf8b50b443a9",
+    "Game": "Fury",
+    "ModType": "Map",
+    "Name": "SPYmaps 1",
+    "Version": 1,
+    "Author": "SPYmaps",
+    "Url": "https://www.moddb.com/mods/spymaps-ion-fury",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Fury/Maps/spymaps1.zip",
+    "FileSize": 221979,
+    "Description": ""
+  },
+  {
+    "Guid": "8411f05f-8ce8-4e26-a5dd-ad9cb7941bbb",
+    "Game": "Fury",
+    "ModType": "Autoload",
+    "Name": "Voxel Pack",
+    "Version": 0.4,
+    "Url": "https://github.com/Dzierzan/IonFury-Voxel-Pack",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Fury/Mods/voxel_pack.zip",
+    "FileSize": 1340403,
+    "Description": "Voxel replacements for sprites in Ion Fury"
+  },
+  {
+    "Guid": "4832b35e-a414-4117-9d6b-0c34c54909e5",
+    "Game": "Redneck",
+    "ModType": "Autoload",
+    "Name": "Redneck Rampage Soundtrack",
+    "Version": 1,
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Redneck/Mods/redneck_rampage_music.zip",
+    "FileSize": 62197732,
+    "Description": "Original soundtrack for Redneck Rampage and Route 66"
+  },
+  {
+    "Guid": "ac519229-4ffe-44c7-9483-c574e1dbf459",
+    "Game": "Redneck",
+    "ModType": "Autoload",
+    "Name": "Rides Again Soundtrack",
+    "Version": 1,
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Redneck/Mods/rides_again_music.zip",
+    "FileSize": 37404250,
+    "Description": "Original soundtrack for Redneck Rampage Rides Again"
+  },
+  {
+    "Guid": "bec18b97-890a-414f-8f36-c3d5bc5c1d7d",
+    "Game": "Slave",
+    "ModType": "Campaign",
+    "Name": "Return to Ruins",
+    "Version": 1,
+    "Author": "Oasiz, MetHy, Daedolon",
+    "Url": "https://www.moddb.com/mods/return-to-ruins",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Campaigns/return_to_ruins_v1.zip",
+    "FileSize": 374686,
+    "Description": "This is a 3 maps episode for the PC DOS version of Exhumed / Powerslave.\r\n\r\nNew maps for a game with no official modding support. 20 years after its release.\r\n\r\nThe maps were built with an episodic format in mind, but unlike in the original game, they were also designed so that each can be played separetely with a fresh start."
+  },
+  {
+    "Guid": "1f18e7c6-6444-44b8-8aee-eebda3f20b37",
+    "Game": "Slave",
+    "ModType": "Autoload",
+    "Name": "Voxel Pack",
+    "Version": 0.16,
+    "Url": "https://github.com/fgsfds/Powerslave-Voxel-Pack",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Mods/voxel_pack.zip",
+    "FileSize": 643820,
+    "Description": "This pack provides voxel replacements for sprites in Powerslave/Exhumed"
+  },
+  {
+    "Guid": "95c95b09-2af5-4283-947d-3bc9ba95fa12",
+    "Game": "Wang",
+    "ModType": "Campaign",
+    "Name": "Twin Dragon",
+    "Version": 2,
+    "Author": "Wylde Productions, Level Infinity",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Campaigns/twin_dragon.zip",
+    "FileSize": 5311595,
+    "Description": "Twin Dragon is an official expansion to the Shadow Warrior that was released as a free download on July 4, 1998.\r\n\r\nThe game reveals that Lo Wang has a twin brother, Hung Lo, with whom he was separated in early childhood. Hung Lo becomes a dark person whose goal is to destroy the world. Similar to Master Zilla, he uses the creatures from the dark side, criminal underworld and Zilla\u0027s remnants to further his goals. Lo Wang has to journey through his dark minions, reach his palace and defeat the evil Twin Dragon Hung Lo once and for all. When he reaches the palace, Lo Wang defeats his brother by shooting a Nuke at him, which kills Hung Lo in the process.\r\n\r\nThe game features 13 new levels, new sounds, artwork and a new final boss, Hung Lo, who replaced Zilla."
+  },
+  {
+    "Guid": "d2280c69-7fe7-4145-a87e-dc89b1592106",
+    "Game": "Wang",
+    "ModType": "Campaign",
+    "Name": "Wanton Destruction",
+    "Version": 2,
+    "Author": "Sunstorm Interactive",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Campaigns/wanton_destruction.zip",
+    "FileSize": 21603512,
+    "Description": "Wanton Destruction is an official expansion that was created by Sunstorm Interactive and tested by 3D Realms, but was not released by the distributor. It was found on September 5, 2005 and was released for free.\r\n\r\nThe add-on chronicles Lo Wang\u0027s adventures after the original game. He visits his relatives in USA, but is forced to fight off Zilla\u0027s forces again. The game culminates with a battle against Master Zilla above the streets of Tokyo, which ends with Master Zilla\u0027s death.\r\n\r\nThe game features 12 new levels, new artwork and a few new enemy replacements, such as human enemies; though they still act like their original counterparts."
   },
   {
     "Guid": "40c00be6-8121-4fea-b35c-031a6b6947f6",
