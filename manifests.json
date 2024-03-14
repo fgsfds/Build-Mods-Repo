@@ -195,7 +195,7 @@
     "Name": "World Tour Red Crosses",
     "Version": 1,
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Duke3D/Mods/wt_uncensor.zip",
-    "FileSize": 88851,
+    "FileSize": 88992,
     "Description": "This mod brings back red crosses of the medkits in World Tour edition of the game"
   },
   {
@@ -242,6 +242,16 @@
     "Description": "Original soundtrack for Redneck Rampage Rides Again"
   },
   {
+    "Guid": "e94cdb70-95e8-4c1e-8d60-320b6385a931",
+    "Game": "Redneck",
+    "ModType": "Autoload",
+    "Name": "Voxel Pack",
+    "Version": 0.1,
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Redneck/Mods/voxel_pack.zip",
+    "FileSize": 4600,
+    "Description": "Voxel pack for Redneck Rampage that only has one voxel: the key =)"
+  },
+  {
     "Guid": "bec18b97-890a-414f-8f36-c3d5bc5c1d7d",
     "Game": "Slave",
     "ModType": "Campaign",
@@ -252,6 +262,66 @@
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Campaigns/return_to_ruins_v1.zip",
     "FileSize": 374686,
     "Description": "This is a 3 maps episode for the PC DOS version of Exhumed / Powerslave.\r\n\r\nNew maps for a game with no official modding support. 20 years after its release.\r\n\r\nThe maps were built with an episodic format in mind, but unlike in the original game, they were also designed so that each can be played separetely with a fresh start."
+  },
+  {
+    "Guid": "ba607c16-3170-48bc-9348-9c04c0c6d355",
+    "Game": "Slave",
+    "ModType": "Map",
+    "Name": "El-Gizah",
+    "Version": 1,
+    "Author": "Slawomir LAW Lawrynowicz",
+    "Url": "https://www.moddb.com/games/powerslave/addons/el-gizah",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Maps/elgizah_v1.zip",
+    "FileSize": 40538,
+    "Description": "Medium sized map for a Exhumed/Powerslave game. Level features a marsh, desert, pyramid, temple and of course the mighty Sphinx."
+  },
+  {
+    "Guid": "b9c52b89-77ae-4f9b-b771-d2207bbe8c74",
+    "Game": "Slave",
+    "ModType": "Map",
+    "Name": "Forgotten Sanctuary",
+    "Version": 1,
+    "Author": "Korbac",
+    "Url": "https://www.moddb.com/games/powerslave/addons/forgotten-sanctuary",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Maps/forgotten_sanctuary_v1.zip",
+    "FileSize": 74954,
+    "Description": ""
+  },
+  {
+    "Guid": "6bb3ba83-ce37-4321-b43c-5b7b283999fd",
+    "Game": "Slave",
+    "ModType": "Map",
+    "Name": "Temple of the Fire and the Water",
+    "Version": 1,
+    "Author": "pagb666",
+    "Url": "https://www.moddb.com/games/powerslave/addons/temple-of-the-fire-and-the-water",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Maps/totfatw_v1.zip",
+    "FileSize": 3098190,
+    "Description": "The Kilmaat plans were thwarted, however the remaining troops are up to no good. You must venture into the Temple of the Fire and the Water and retrieve the ashes of Anubis before they use them for their evil deeds.\r\n\r\nThis level can be completed in two different ways. The advised way is clockwise, as it features a more natural progression. I can perfectly be finished counter-clockwise, but it\u0027ll be more quirky, because of the quirky weapons ;)"
+  },
+  {
+    "Guid": "37e50bdb-8df7-4ccd-920e-2afd966608ac",
+    "Game": "Slave",
+    "ModType": "Autoload",
+    "Name": "Alternative M60",
+    "Version": 1,
+    "Author": "fgsfds, Dzierzan",
+    "Url": "https://www.moddb.com/games/powerslave/addons/psm60",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Mods/alternative_m60.zip",
+    "FileSize": 28428,
+    "Description": "A simple addon which replaces M60 weapon with alternative one."
+  },
+  {
+    "Guid": "05c6dd0b-15fb-45b8-8c8c-083f0779c3ea",
+    "Game": "Slave",
+    "ModType": "Autoload",
+    "Name": "High Quality Sound Effects",
+    "Version": 1,
+    "Author": "Dzierzan",
+    "Url": "https://www.moddb.com/mods/powerslave-exhumed-high-quality-sound-effects",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Slave/Mods/hq_sounds.zip",
+    "FileSize": 13052822,
+    "Description": "This mod replaces original sounds with high quality ones based on actual sources. If a specifc sound\u0027s source was not found, then the sound was upscaled."
   },
   {
     "Guid": "1f18e7c6-6444-44b8-8aee-eebda3f20b37",
@@ -272,7 +342,7 @@
     "Version": 2,
     "Author": "Wylde Productions, Level Infinity",
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Campaigns/twin_dragon.zip",
-    "FileSize": 5311595,
+    "FileSize": 5311605,
     "Description": "Twin Dragon is an official expansion to the Shadow Warrior that was released as a free download on July 4, 1998.\r\n\r\nThe game reveals that Lo Wang has a twin brother, Hung Lo, with whom he was separated in early childhood. Hung Lo becomes a dark person whose goal is to destroy the world. Similar to Master Zilla, he uses the creatures from the dark side, criminal underworld and Zilla\u0027s remnants to further his goals. Lo Wang has to journey through his dark minions, reach his palace and defeat the evil Twin Dragon Hung Lo once and for all. When he reaches the palace, Lo Wang defeats his brother by shooting a Nuke at him, which kills Hung Lo in the process.\r\n\r\nThe game features 13 new levels, new sounds, artwork and a new final boss, Hung Lo, who replaced Zilla."
   },
   {
@@ -283,7 +353,7 @@
     "Version": 2,
     "Author": "Sunstorm Interactive",
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Campaigns/wanton_destruction.zip",
-    "FileSize": 21603512,
+    "FileSize": 21603519,
     "Description": "Wanton Destruction is an official expansion that was created by Sunstorm Interactive and tested by 3D Realms, but was not released by the distributor. It was found on September 5, 2005 and was released for free.\r\n\r\nThe add-on chronicles Lo Wang\u0027s adventures after the original game. He visits his relatives in USA, but is forced to fight off Zilla\u0027s forces again. The game culminates with a battle against Master Zilla above the streets of Tokyo, which ends with Master Zilla\u0027s death.\r\n\r\nThe game features 12 new levels, new artwork and a few new enemy replacements, such as human enemies; though they still act like their original counterparts."
   },
   {
@@ -297,6 +367,42 @@
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Campaigns/wiwy_v11.zip",
     "FileSize": 3221035,
     "Description": "This story takes places some years before the game does; Lo Wang is a bad boy and he is working for local mafia. Two sections of the local chinese mafia battle to gain control of the city. One clan is led by Mr Takagy, the other one by Mr Fu Kung. You are member of Mr Takagy\u0027s clan, and got to do the dirty jobs for him... (you might also have to deal with the police)\r\n\r\n- 11 single player levels \u002B 1 secret level (technically 2 secret levels, but same twice) \u002B 6 in-between levels \u002B 2 \u0027bonus\u0027 levels\r\n\r\n- coop \u0026 wangbang capabilities in all 11 main levels\r\n\r\n- 2 new weapons (unfinished, thus looking really ugly but I kept it for fun)\r\n\r\n- new arts\r\n\r\n- a little new intro animation\r\n\r\n- a story :-)\r\n\r\n- new talk\r\n\r\n- weather effects"
+  },
+  {
+    "Guid": "49847328-c500-41a6-9a07-2c3cb526dee3",
+    "Game": "Wang",
+    "ModType": "Autoload",
+    "Name": "High Quality Sound Effects",
+    "Version": 1,
+    "Author": "Dzierzan",
+    "Url": "https://www.moddb.com/mods/shadow-warrior-high-quality-sound-effects",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Mods/hq_sounds.zip",
+    "FileSize": 101020094,
+    "Description": "This mod replaces original sounds with high quality ones based on actual sources. If a specifc source was not found, then a sound was upscaled."
+  },
+  {
+    "Guid": "2e83a04e-bc2b-4f26-a839-6c67e89edd60",
+    "Game": "Wang",
+    "ModType": "Autoload",
+    "Name": "High Quality Sound Effects Twin Dragon",
+    "Version": 1,
+    "Author": "Dzierzan",
+    "Url": "https://www.moddb.com/mods/shadow-warrior-high-quality-sound-effects",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Mods/hq_sounds_td.zip",
+    "FileSize": 14214809,
+    "Description": "This mod replaces original sounds with high quality ones based on actual sources. If a specifc source was not found, then a sound was upscaled."
+  },
+  {
+    "Guid": "503c7399-d448-4563-bcf4-9cdf135f4a84",
+    "Game": "Wang",
+    "ModType": "Autoload",
+    "Name": "High Quality Sound Effects Wanton Destruction",
+    "Version": 1,
+    "Author": "Dzierzan",
+    "Url": "https://www.moddb.com/mods/shadow-warrior-high-quality-sound-effects",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Wang/Mods/hq_sounds_wd.zip",
+    "FileSize": 7272981,
+    "Description": "This mod replaces original sounds with high quality ones based on actual sources. If a specifc source was not found, then a sound was upscaled."
   },
   {
     "Guid": "d26e00e6-4459-4388-aea3-e87cf38852bc",
