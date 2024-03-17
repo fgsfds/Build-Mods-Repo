@@ -1,29 +1,5 @@
 [
   {
-    "Guid": "3a15a969-3c97-4533-a6c2-1d60efe840cf",
-    "Game": "Blood",
-    "ModType": "Campaign",
-    "Name": "Death Wish",
-    "Version": 1.1,
-    "Author": "Bloatoid",
-    "Url": "https://www.moddb.com/mods/death-wish-for-blood",
-    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/death_wish_v1_1.zip",
-    "FileSize": 3027754,
-    "Description": "Caleb will need to muster all his strength to take down the mighty Tchernobog, who has managed to free himself from the grip of death.\r\n\r\nDeath Wish is a campaign for Blood with over 30 new levels, cut scenes, and more. All levels have been adapted so that Co-op play is not only possible, but enhanced with a helpful checkpoint system. The campaign includes several secret levels which all connect back to their episodes through special transitional missions.\r\n\r\nThe entire mod was developed by a single mapper, Bloatoid, who has been editing with the Build engine for many years. The original Death Wish was created between January 2010 and October 2011. Updates have been made over the years based on feedback from players and observing online streamers, as well as the addition of several extra secret levels. A 4th episode is in development.\r\n\r\nLet the festival of Blood continue!"
-  },
-  {
-    "Guid": "8b74f3cf-36d7-48fd-8081-aa69a3d30dff",
-    "Game": "Blood",
-    "ModType": "Campaign",
-    "Name": "Death Wish",
-    "Version": 1.2,
-    "Author": "Bloatoid",
-    "Url": "https://www.moddb.com/mods/death-wish-for-blood",
-    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/death_wish_v1_2.zip",
-    "FileSize": 56184446,
-    "Description": "Caleb will need to muster all his strength to take down the mighty Tchernobog, who has managed to free himself from the grip of death.\r\n\r\nDeath Wish is a campaign for Blood with over 30 new levels, cut scenes, and more. All levels have been adapted so that Co-op play is not only possible, but enhanced with a helpful checkpoint system. The campaign includes several secret levels which all connect back to their episodes through special transitional missions.\r\n\r\nThe entire mod was developed by a single mapper, Bloatoid, who has been editing with the Build engine for many years. The original Death Wish was created between January 2010 and October 2011. Updates have been made over the years based on feedback from players and observing online streamers, as well as the addition of several extra secret levels. A 4th episode is in development.\r\n\r\nLet the festival of Blood continue!"
-  },
-  {
     "Guid": "c81ce9f3-04fd-415d-b01d-ead79408280f",
     "Game": "Blood",
     "ModType": "Campaign",
@@ -106,6 +82,30 @@
     "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/french_meat_v2_3.zip",
     "FileSize": 2662474,
     "Description": "After the French Meat episode for BLOOD, the second with 8 new maps including new tiles and soundtracks for an adventure with a unique atmosphere immersed in the heart of paradise island colonized by the pirates of Cabal! kill them all, make a maximum of death, blow them up, slaughter them wherever they are.\r\n\r\nINCLUDING :\r\n\r\n- French Meat episode 1 updated : 9 maps\r\n\r\n- French Meat episode 2 : 8 maps \u002B new tiles"
+  },
+  {
+    "Guid": "a65dd8bf-7431-465c-91ac-2bddffc8b9d9",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Name": "Hostile Takeover",
+    "Version": 1.1,
+    "Author": "Bloatoid",
+    "Url": "https://www.moddb.com/games/blood/addons/hostile-takeover-v11",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/hostile_takeover_v1_1.zip",
+    "FileSize": 725820,
+    "Description": "A new episode that features some great level design from Bloatoid, the author of Death Wish."
+  },
+  {
+    "Guid": "6de4783d-2b98-42e8-9cce-08ee7ec9f87c",
+    "Game": "Blood",
+    "ModType": "Campaign",
+    "Name": "The Lost Episode",
+    "Version": 1,
+    "Author": "Maz",
+    "Url": "https://www.moddb.com/games/blood/addons/the-lost-episode",
+    "DownloadUrl": "https://github.com/fgsfds/Build-Mods-Repo/raw/master//Blood/Campaigns/lost_episode.zip",
+    "FileSize": 433092,
+    "Description": "This Episode is made up of eight maps taken straight from the leaked alpha. There are minor changes in aesthetics in a few of the maps however teh author made sure to keep all maps as close to the original author\u0027s intentions and art direction as possible."
   },
   {
     "Guid": "f0328f89-a563-4c31-9a9e-f6ba523658ec",
